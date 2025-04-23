@@ -1,4 +1,7 @@
--Granados Mora Christian David
+-INTEGRANTES
+318209533 Granados Mora Christian David
+
+-INSTRUCCIONES PARA EJECUTAR-
 -En la clase Maquina se implentan los cinco metodos que se piden para el proyecto, asi mismo se incluyen dos metodos auxiliares para el metodo "contieneNombre". En la clase main se implementa un menu con los cinco metodos como opciones y una opción para terminar la ejecución
 -No se presentaron inconvenientes
 -En la terminal se tiene ejecutar el comando javac *.java y el comando java Main, posteriormente se mostrara un menu con los cinco metodos de la clase y con una opción para terminar la ejecución

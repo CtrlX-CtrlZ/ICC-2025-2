@@ -1,4 +1,7 @@
--Granados Mora Christian David
+-INTEGRANTES-
+318209533 Granados Mora Christian David
+
+-INSTRUCIONES PARA EJECUTAR-
 -En la clase Recipiente se implentan todos los metodos de clase interfaz
 La clase Recipiente tiene como atributos: radio, altura y cantidad de liquido actual
 Se agregaron los metodos setter y getter 
