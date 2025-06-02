@@ -1,5 +1,0 @@
--INTEGRANTES: 318209533 Granados Mora Christian David
--Son cuatro clases, una clase principal main donde se crea y se ejecuta un metodo de la clase Juego, una clase Carta que define los atributos y un metodo de comparacion para las cartas, una clase ListaLigada que implementa la estructura de datos con la que se representan las barajas de cartas, una clase juego en la que se definen los metodos necesarios para simular el juego.
--INSTRUCCIONES PARA EJECUTAR: En terminal se ejecuta el comando javac *.java y posteriormete el comando java Main, en la terminal se mostraran las instrucciones del juego y empezara automaticamente la primera ronda, se selecionaran las cartas del centro y la primera carta para el jugador y la computadora.
--INCONVENIENTES: En el primer programa que desarrolle me apoye en las instrucciones de la primera version del pdf, al intentar implementar los cambios de la nueva version del pdf tuve problemas que no pude solucionar, por lo que decidi quedarme con la primera version. 
--NO SE HIZO USO DE UN IDLE
